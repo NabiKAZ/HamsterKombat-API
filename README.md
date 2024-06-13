@@ -20,7 +20,7 @@ print(data)
 ```
 
 nodejs:
-```nodejs
+```js
 import fetch from 'node-fetch';
 
 const url = 'https://raw.githubusercontent.com/NabiKAZ/HamsterKombat-API/main/config.json';
