@@ -4,7 +4,7 @@ Unofficial API of [Hamster Kombat](https://t.me/Hamster_kombat_bot/start?startap
 ## Usage
 This fixed address contains the required data that you can read and use in your code:
 
-https://nabikaz.github.io/HamsterKombat-API/config.json
+[https://nabikaz.github.io/HamsterKombat-API/config.json](https://nabikaz.github.io/HamsterKombat-API/config.json)
 
 ## Sample codes
 
