@@ -88,3 +88,6 @@ If you want to participate in updating the file, contact @NabiKAZ on Telegram or
 ## Supporter
 Nothing! Just give a star on the GitHub page, we will be happy. (:
 
+## Donation
+If this project was useful for you and you are willing, you can make me happy by giving a Star at the top of this GitHub page. Also this is my wallet address for Donate: \
+USDT (TRC20): `TEHjxGqu5Y2ExKBWzArBJEmrtzz3mgV5Hb`
