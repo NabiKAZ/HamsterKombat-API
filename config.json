@@ -1,9 +1,9 @@
 {
     "dailyCards": [
-        "x",
-        "derivatives",
-        "defi2.0_tokens"
+        "top_10_cmc_pairs",
+        "partner_announce",
+        "premarket_launch"
     ],
-    "morseCode": "SIGNER",
-    "updated": "1722826111"
+    "morseCode": "BYTES",
+    "updated": "1722942673"
 }
