@@ -1,9 +1,9 @@
 {
     "dailyCards": [
-        "fan_tokens",
-        "dao",
-        "telegram_miniapp_launch"
+        "anti_money_loundering",
+        "trading_bots",
+        "compliance_officer"
     ],
-    "morseCode": "TELEGRAM",
+    "morseCode": "KEYS",
     "updated": "1723940807"
 }
